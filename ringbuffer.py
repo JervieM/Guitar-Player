@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 class RingBuffer:
     def __init__(self, capacity: int):
         '''
